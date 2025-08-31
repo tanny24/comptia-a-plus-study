@@ -29,3 +29,5 @@ Goal: 15+ min/day + one commit → keep the streak alive. ✅
 ---
 
 ✍️ Keep it simple: show up, log it, push it.
+
+Trying to fix wordinf 
